@@ -12,14 +12,15 @@ My academic and professional interests lie at the intersection of **quantitative
 ---
 ## Internship Experience
 **Research Analyst Intern @ Infisum Modelling**
-- Conducted in-depth research on international trade and economic policy with Infisum Modelling LLC, collaborating with partner firm Chainaim Inc. to develop tech-driven solutions used by top global policymakers
+- Conducted in-depth research on international trade and economic policy with Infisum Modelling LLC, collaborating with partner firm Chainaim Inc. to develop tech-driven solutions used by top global policymakers.
+  
 **Research Intern @ Ministry of Commerce and Industry**
 - Measured the Domestic Capacity, Sensitivity, and  Vulnerability for the seven sectors using scratch data available in TradeMap.Constructed the final report on the top vulnerable products of different sectors based on the relation between DCI, SI, and VIand showed India’s trade position in the international market.
 - Identified over 30 relevant HS codes and assessed 10+ years of trade data on exports and imports of primary plastic polymers, polymers of concern, and single-use plastics.
 
 ---
 
-## 💻 Skills
+## Skills
 - **Data Science & Analytics**: Machine Learning, Deep Learning, Natural Language Processing, PCA, Neural Networks, ANN, RNN, LSTM, Financial Modeling, Predictive Modelling, Credit Risk Modelling  
 - **Programming & Tools**: Python, Pandas, NumPy, Scikit-learn, Statsmodels, PySpark, Stata, EViews, MS Excel  
 - **Databases**: PostgreSQL  
