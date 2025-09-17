@@ -1,9 +1,7 @@
 # Satyaki Basak
 
-Hi! 👋 I’m **Satyaki Basak**, a graduate student in **Economics (Finance specialization)** at the Indian Institute of Foreign Trade, Kolkata.  
-I am passionate about **quantitative finance, data science, and economic research**, with hands-on experience in **time series modeling, credit risk, and machine learning**.
-
-This portfolio is built using **Jekyll Minimal Theme** and highlights my **projects, research, and skills**.
+Hi! I’m **Satyaki Basak**, a graduate student in **Economics with a specialization in Finance** at the Indian Institute of Foreign Trade, Kolkata.  
+My academic and professional interests lie at the intersection of **quantitative finance, data science, and economic research**. I have practical experience in **time series modeling, credit risk assessment, and machine learning**, and I am particularly focused on applying advanced analytical techniques to solve complex problems in financial markets and policy analysis.
 
 ---
 
