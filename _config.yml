@@ -1,5 +1,8 @@
 title: Satyaki Basak
 logo: /assets/img/Satyaki_basak_picture.jpg
-#description: text below image
-show_downloads: true
+description: "Graduate student in Economics | Data Science | Quantitative Finance"
+show_downloads: false
 theme: jekyll-theme-minimal
+email: satyakibasak01@gmail.com
+linkedin: https://www.linkedin.com/in/satyakibasak
+github: https://github.com/SatyakiB-ops
