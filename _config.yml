@@ -3,15 +3,4 @@ logo: /assets/img/Satyaki_basak_image.png
 description: "Economics & Data Science Enthusiast | Data Science | Quantitative Finance"
 show_downloads: false
 theme: jekyll-theme-minimal
-sass:
-  style: compressed
 
-include:
-  - assets/css
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      css: "/assets/css/style.css"
