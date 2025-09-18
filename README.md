@@ -38,7 +38,7 @@ In this project, I developed a machine learning pipeline to detect fraudulent cr
 
 ### Nifty 50 Closing Price Forecasting Using ARIMA Model and LSTM 
 This work involves forecasting daily closing prices of the NIFTY 50 index using ARIMA models and LSTM implemented in Python with the statsmodels,pmdarima, and tensorflow libraries. Historical data was obtained from NSE website, and model performance was evaluated using Mean Absolute Percentage Error (MAPE). The ARIMA-based forecasts achieved an error of less than 5%, indicating strong reliability for short-term market trend predictions. The project highlights the usefulness of time series analysis for financial forecasting and decision-making in equity markets. 
-![image_alt](/assets/img/newplot(4).png)
+![image_alt](https://github.com/SatyakiB-ops/Satyakiportfolio/blob/e88378133b82b8b68a449efe4f507931f77b367f/assets/img/newplot%20(4).png)
 
 ### Macroeconomics Time Series Analysis Using VAR Modelling
 This project explores the long-run relationship between per capita GDP and consumption in Pakistan through econometric time series modeling. Using Johansen cointegration tests, I established the presence of a long-term equilibrium relationship. A Vector Autoregressive (VAR) model was then estimated, followed by Impulse Response Functions (IRFs) to study how shocks in GDP impact consumption patterns. Results showed that shocks persisted up to five periods, providing valuable insights into consumption dynamics in a developing economy. The project demonstrates the power of VAR-based modeling in uncovering economic interdependencies.  
