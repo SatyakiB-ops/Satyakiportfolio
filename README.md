@@ -39,7 +39,9 @@ In this project, I developed a machine learning pipeline to detect fraudulent cr
 ### Nifty 50 Closing Price Forecasting Using ARIMA Model and LSTM 
 This work involves forecasting daily closing prices of the NIFTY 50 index using ARIMA models and LSTM implemented in Python with the statsmodels,pmdarima, and tensorflow libraries. Historical data was obtained from NSE website, and model performance was evaluated using Mean Absolute Percentage Error (MAPE). The ARIMA-based forecasts achieved an error of less than 5%, indicating strong reliability for short-term market trend predictions. The project highlights the usefulness of time series analysis for financial forecasting and decision-making in equity markets. 
 
-![image](assets/img/newplot (4).png)
+![My Plot](https://github.com/satyakib-ops/Satyakiportfolio/blob/main/assets/img/newplot%20(4).png?raw=true)
+
+
 
 
 ### Macroeconomics Time Series Analysis Using VAR Modelling
