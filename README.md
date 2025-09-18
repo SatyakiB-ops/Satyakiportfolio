@@ -37,7 +37,8 @@ This research focuses on modeling the volatility of the Nifty 50 index over a 15
 ### Credit Card Fraud Detection Using Machine Learning
 [Github](https://github.com/SatyakiB-ops/satyaki-techsci/blob/main/Credit%20Card%20Fraud%20ML%20(1).ipynb) In this project, I developed a machine learning pipeline to detect fraudulent credit card transactions from highly imbalanced data. Using techniques like over-sampling and SMOTE-Tomek for class balancing, I trained an ensemble model combining XGBoost and Random Forest Classifier. The model achieved an accuracy of 99% and a precision–recall score of 93%, outperforming conventional methods. I also carried out exploratory data analysis and visualized transaction patterns to highlight behavioral differences between legitimate and fraudulent activities. This project demonstrates how robust modeling and preprocessing strategies can be used to tackle real-world fraud detection problems. 
 
-![Myplot](https://github.com/SatyakiB-ops/Satyakiportfolio/blob/053f315c576f06ade2fcb0e53c9f534869b6d6e6/assets/img/crd2.png)
+![Credit Card Fraud Detection](https://raw.githubusercontent.com/SatyakiB-ops/Satyakiportfolio/053f315c576f06ade2fcb0e53c9f534869b6d6e6/assets/img/crd2.png)
+
 
 ### Nifty 50 Closing Price Forecasting Using ARIMA Model and LSTM 
 [Github](https://github.com/SatyakiB-ops/satyaki-techsci/blob/main/Nifty%2050%20Forecasting%20using%20LSTM.ipynb) This work involves forecasting daily closing prices of the NIFTY 50 index using ARIMA models and LSTM implemented in Python with the statsmodels,pmdarima, and tensorflow libraries. Historical data was obtained from NSE website, and model performance was evaluated using Mean Absolute Percentage Error (MAPE). The ARIMA-based forecasts achieved an error of less than 5%, indicating strong reliability for short-term market trend predictions. The project highlights the usefulness of time series analysis for financial forecasting and decision-making in equity markets. 
