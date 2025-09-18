@@ -46,4 +46,4 @@ This work involves forecasting daily closing prices of the NIFTY 50 index using 
 
 ### Macroeconomics Time Series Analysis Using VAR Modelling
 This project explores the long-run relationship between per capita GDP and consumption in Pakistan through econometric time series modeling. Using Johansen cointegration tests, I established the presence of a long-term equilibrium relationship. A Vector Autoregressive (VAR) model was then estimated, followed by Impulse Response Functions (IRFs) to study how shocks in GDP impact consumption patterns. Results showed that shocks persisted up to five periods, providing valuable insights into consumption dynamics in a developing economy. The project demonstrates the power of VAR-based modeling in uncovering economic interdependencies.  
-
+![CDID Image](https://github.com/SatyakiB-ops/Satyakiportfolio/raw/414ed5ceecb6f9d3c909ea92a1abc95017f43684/assets/img/cdid.png)
