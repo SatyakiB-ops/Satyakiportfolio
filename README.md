@@ -39,7 +39,7 @@ This research focuses on modeling the volatility of the Nifty 50 index over a 15
 
 ![Myplot](https://github.com/SatyakiB-ops/Satyakiportfolio/blob/7ef6ef29fa7973e9817be4e9e52e97d562cdcd69/assets/img/crd1.png)
 
-![Myplot](https://github.com/SatyakiB-ops/Satyakiportfolio/blob/main/assets/img/crd2.png)
+![Myplot](https://github.com/SatyakiB-ops/Satyakiportfolio/blob/85a1f733013eab9e62a56db5fd0b8adf857af84b/assets/img/crd2.png)
 
 ### Nifty 50 Closing Price Forecasting Using ARIMA Model and LSTM 
 [Github](https://github.com/SatyakiB-ops/satyaki-techsci/blob/main/Nifty%2050%20Forecasting%20using%20LSTM.ipynb) This work involves forecasting daily closing prices of the NIFTY 50 index using ARIMA models and LSTM implemented in Python with the statsmodels,pmdarima, and tensorflow libraries. Historical data was obtained from NSE website, and model performance was evaluated using Mean Absolute Percentage Error (MAPE). The ARIMA-based forecasts achieved an error of less than 5%, indicating strong reliability for short-term market trend predictions. The project highlights the usefulness of time series analysis for financial forecasting and decision-making in equity markets. 
