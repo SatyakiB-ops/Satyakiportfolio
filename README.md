@@ -36,6 +36,7 @@ This research focuses on modeling the volatility of the Nifty 50 index over a 15
 
 ### Credit Card Fraud Detection Using Machine Learning
 [Github](https://github.com/SatyakiB-ops/satyaki-techsci/blob/main/Credit%20Card%20Fraud%20ML%20(1).ipynb) In this project, I developed a machine learning pipeline to detect fraudulent credit card transactions from highly imbalanced data. Using techniques like over-sampling and SMOTE-Tomek for class balancing, I trained an ensemble model combining XGBoost and Random Forest Classifier. The model achieved an accuracy of 99% and a precision–recall score of 93%, outperforming conventional methods. I also carried out exploratory data analysis and visualized transaction patterns to highlight behavioral differences between legitimate and fraudulent activities. This project demonstrates how robust modeling and preprocessing strategies can be used to tackle real-world fraud detection problems. 
+
 ![Myplot](https://github.com/SatyakiB-ops/Satyakiportfolio/blob/main/assets/img/crd1.png)
 
 ![Myplot](https://github.com/SatyakiB-ops/Satyakiportfolio/blob/main/assets/img/crd2.png)
