@@ -45,7 +45,12 @@ This research focuses on modeling the volatility of the Nifty 50 index over a 15
 
 ![My Plot](https://github.com/satyakib-ops/Satyakiportfolio/blob/main/assets/img/newplot%20(4).png?raw=true)
 
+### Credit Risk Modelling and ECL Estimation on US Lending Club Dataset
+[Github](https://github.com/SatyakiB-ops/satyaki-techsci/tree/main/Credit%20Risk%20Moel) Developed a comprehensive credit risk framework for consumer loans using US Lending Club data, constructing Probability of Default (PD), Loss Given Default (LGD), and Exposure at Default (EAD) models. The PD model employed fine-classing and coarse-classing techniques to reduce variable dimensionality, followed by dummy encoding for categorical variables, and was implemented using logistic regression to estimate the probability of default for individual borrowers. The LGD model calculated recovery rates through linear regression, capturing expected loss severity for defaulted loans, while the EAD model estimated the Credit Conversion Factor (CCF) to derive exposure at default. Finally, the PD, LGD, and EAD estimates were integrated to compute Expected Credit Loss (ECL) at the borrower level, enabling granular risk assessment and portfolio-level credit risk analysis. The project leveraged Python, pandas, scikit-learn, and numpy to implement the entire workflow efficiently.
 
+![myplot](https://github.com/SatyakiB-ops/Satyakiportfolio/blob/1bad00cfe697d5a9f1afe76cc8dab88d7bbc874f/assets/img/ECL.png)
+
+![myplot](https://github.com/SatyakiB-ops/Satyakiportfolio/blob/1bad00cfe697d5a9f1afe76cc8dab88d7bbc874f/assets/img/gini.png)
 
 
 ### Macroeconomics Time Series Analysis Using VAR Modelling
