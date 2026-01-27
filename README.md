@@ -10,7 +10,7 @@ My academic and professional interests lie at the intersection of **quantitative
 - B.Sc. Economics | Calcutta University (2020–2023)   
 
 ---
-## Work Experience
+## Work Experiences
 **Research Analyst @ Management Development Institute**
 - Analyzing how cognitive and emotional biases (overconfidence, loss aversion, herding, disposition effect) shape individual investment decisions.
 - Co-developing a game-based investment simulation to induce biases and capture real-time EEG responses during financial decision-making.
