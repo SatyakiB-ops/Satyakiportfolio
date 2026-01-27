@@ -1,6 +1,6 @@
 # Data Scientist
 
-Hi! I’m **Satyaki Basak**, a graduate student in **Economics with a specialization in Finance** at the Indian Institute of Foreign Trade, Kolkata.  
+Hi! I’m **Satyaki Basak**, a post graduate student in **Economics with a specialization in Finance** at the Indian Institute of Foreign Trade, Kolkata.  
 My academic and professional interests lie at the intersection of **quantitative finance, data science, and economic research**. I have practical experience in **time series modeling, credit risk assessment, and machine learning**, and I am particularly focused on applying advanced analytical techniques to solve complex problems in financial markets and policy analysis.
 
 ---
