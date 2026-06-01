@@ -13,7 +13,10 @@ My academic and professional interests lie at the intersection of **quantitative
 ## Work Experience
 **Research Analyst @ Management Development Institute**
 - Analyzing how cognitive and emotional biases (overconfidence, loss aversion, herding, disposition effect) shape individual investment decisions.
-- Co-developing a game-based investment simulation to induce biases and capture real-time EEG responses during financial decision-making.
+- Examined how cognitive biases affect retail investment decisions in India using CB-SEM modelling in **R**, with
+financial literacy as a moderating variable.
+- Derived policy recommendations for investor education based on empirical findings across four key behavioural
+biases.
 
 **Research Analyst Intern @ Infisum Modelling**
 - Conducted in-depth research on international trade and economic policy with Infisum Modelling LLC, collaborating with partner firm Chainaim Inc. to develop tech-driven solutions used by top global policymakers.
